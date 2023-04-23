@@ -73,7 +73,7 @@ bash download_multion_data.sh
 Run the following to download multiON dataset and cached oracle occupancy maps:
 ```
 mkdir data 
-cd data
+cd data 
 mkdir datasets
 cd datasets
 gdown "https://drive.google.com/uc?id=1YCFk2dvvE2XkdoTmQuDL1VZS5CCk7jTL"
